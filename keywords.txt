@@ -1,0 +1,6 @@
+# One keyword per line. Lines starting with # are ignored.
+# Default set from the original Taiwan Legal Support PRD.
+詐欺
+幫助詐欺
+洗錢
+人頭帳戶
